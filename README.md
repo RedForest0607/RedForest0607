@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I College Student Right Now, But I'm Really Want A Be A Great Computer Engineer 👨‍💻 
+
+I'm Very Passionate About Web, Server, And Machine Learning ETC. 💻 
+
+I'm Currently Working On Mobile App Service With My Colleague (Toy Project). 📱 
+
+And Learning JAVA Spring and Pytorch. 🧠 
 <!--
 **RedForest0607/RedForest0607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
