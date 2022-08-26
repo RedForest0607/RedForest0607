@@ -6,6 +6,8 @@ I'm Very Passionate About Web, Server. 💻
 
 I'm Currently Working On Mobile App Service With My Colleague (Toy Project). 📱 
 
+And also Working as a Intern in curinginnos. 🎾
+
 And Learning JAVA Spring. 🧠 
 
 ![RedForest0607's github stats](https://github-readme-stats.vercel.app/api?username=RedForest0607&show_icons=true)
