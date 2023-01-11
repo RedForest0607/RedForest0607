@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I College Student Right Now, But I'm Really Want A Be A Great Computer Engineer 👨‍💻 
+I'm InGyu, And I'm working as a backend Engineer right now
 
 I'm Very Passionate About Web, Server. 💻 
 
